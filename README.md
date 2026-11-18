@@ -1,7 +1,5 @@
 # HPL Modernizer
 
-> The first public release is in preparation. Downloads will appear on the [Releases page](https://github.com/jrgray933/HPL-Modernizer/releases).
-
 HPL Modernizer gives **Amnesia: The Dark Descent**, **Justine**, **Amnesia: A Machine for Pigs**, and **SOMA** a shared Windows launcher, modern display options, and optional higher-resolution textures. You’ll need your own Steam copy of each game you want to play.
 
 ## What you can play
@@ -17,12 +15,12 @@ You can use the games’ original textures or choose an installed texture pack. 
 ## Install and play
 
 1. Open [Releases](https://github.com/jrgray933/HPL-Modernizer/releases). Download **HPL Modernizer Launcher** and the game downloads you want. You’ll need 64-bit Windows 10 or 11 and the corresponding games installed through Steam.
-2. Extract the launcher ZIP and run the installer inside. Install the launcher first, even if you only want SOMA. Keep the default install folder or choose a short path such as `C:\HPL Modernizer`.
+2. Extract the launcher ZIP and run the installer inside. Install the launcher first. Keep the default install folder or choose a short path such as `C:\HPL Modernizer`.
 3. For either Amnesia game, install the [Microsoft Visual C++ Redistributable for x64](https://aka.ms/vc14/vc_redist.x64.exe). If Microsoft’s installer says a newer version is already installed, you can continue.
 4. Extract and run each game installer. When asked, choose your HPL Modernizer launcher folder and the game’s original Steam folder. In Steam, right-click the game and choose **Manage → Browse local files** to find it. The Dark Descent installer also covers Justine.
 5. Install any optional texture packs using the steps below. Open **HPL Modernizer** from the Start menu, choose your game, and launch it.
 
-SOMA requires Steam build 20049349.
+The SOMA 4× texture pack requires Steam build 20049349 and a separately installed HPL Modernizer SOMA component.
 
 The first launch can take a few minutes while HPL Modernizer prepares the game. Texture packs need extra free space for both installation and that first launch.
 
